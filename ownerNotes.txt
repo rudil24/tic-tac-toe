@@ -1,0 +1,4 @@
+Build a text-based version of the Tic Tac Toe game.
+Preferably one that is human vs AI (computer), but human vs human (local) is acceptable.
+Use python only (python 3.14.2) is what we have installed.
+remember to enable a .venv to test and deploy any libraries.
