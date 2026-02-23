@@ -16,6 +16,7 @@ The Tic-Tac-Toe project implementation was a success overall. The core game loop
 ## What Could Be Improved
 
 - Absolute adherence to global rules: The team failed to respect the negative constraint against mentioning ".vscode" or other IDEs.
+  - rudil24: it wasn't really mentioning it that was setting me off, it was the agent making changes to .vscode configs thinking it would fix antigravity is why I was so frustrated.
 - `LOCAL_LOG.md` tracking: The team failed to update the continuous log during the deploy/retro stage initially.
 - We must remember to do `git init` natively during setup (which has now been automated).
 

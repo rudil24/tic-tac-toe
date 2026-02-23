@@ -31,13 +31,13 @@ _Terminal UI will feature clean screen clears and cool retro X's and O's structu
 
 ### MVP (Must Do)
 
-- [ ] Initialize the game board.
-- [ ] Implement the core game loop for human vs AI play.
-- [ ] Build progressive AI that starts easy (e.g. random moves) and increases in difficulty.
-- [ ] Implement robust win/draw condition checking.
-- [ ] Design and implement retro terminal styling (Atari 1978 look, structural X's and O's, screen clearing).
-- [ ] Implement a full unit test suite achieving 100% test coverage using `pytest`.
-- [ ] Document virtual environment instructions clearly.
+- [x] Initialize the game board.
+- [x] Implement the core game loop for human vs AI play.
+- [x] Build progressive AI that starts easy (e.g. random moves) and increases in difficulty.
+- [x] Implement robust win/draw condition checking.
+- [x] Design and implement retro terminal styling (Atari 1978 look, structural X's and O's, screen clearing).
+- [x] Implement a full unit test suite achieving 100% test coverage using `pytest`.
+- [x] Document virtual environment instructions clearly.
 
 ### Stretch Goals (Should Do at some point)
 
@@ -76,13 +76,13 @@ flowchart TD
 
 ## Development Workflow
 
-- [ ] 1. Scaffold main project files (`main.py`, `board.py`, `ai.py`)
-- [ ] 2. Setup `pytest` environment and `requirements.txt`
-- [ ] 3. Implement Board rendering logic (retro UI)
-- [ ] 4. Implement core game logic (win checking, input validation)
-- [ ] 5. Implement AI logic (easy/random -> minimax)
-- [ ] 6. Write and run tests until 100% coverage is met
-- [ ] 7. END-TO-END TEST with Human interaction
+- [x] 1. Scaffold main project files (`main.py`, `board.py`, `ai.py`)
+- [x] 2. Setup `pytest` environment and `requirements.txt`
+- [x] 3. Implement Board rendering logic (retro UI)
+- [x] 4. Implement core game logic (win checking, input validation)
+- [x] 5. Implement AI logic (easy/random -> minimax)
+- [x] 6. Write and run tests until 100% coverage is met
+- [x] 7. END-TO-END TEST with Human interaction
 
 ## Reflection
 
